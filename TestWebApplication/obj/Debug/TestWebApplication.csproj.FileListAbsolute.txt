@@ -81,3 +81,4 @@ C:\Projects1\TestWebApplication\TestWebApplication\obj\Debug\TestWebApplication.
 C:\Projects1\TestWebApplication\TestWebApplication\obj\Debug\TestWebApplication.dll
 C:\Projects1\TestWebApplication\TestWebApplication\obj\Debug\TestWebApplication.pdb
 C:\Projects1\TestWebApplication\TestWebApplication\bin\GridMvc.dll
+C:\Projects1\TestWebApplication\TestWebApplication\obj\Debug\TestWebApplication.csproj.AssemblyReference.cache
